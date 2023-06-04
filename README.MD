@@ -46,5 +46,6 @@ How to run this project:
 3. run the app.py, and go to http://127.0.0.1:5000/LSTM or http://127.0.0.1:5000/lr, which will display the current sensors data and predicted value using different models
 
 
+![image](https://github.com/WestbrookOKC/AWS_Flask_LSTM_Weather_Station/assets/100655843/a4adf21b-a03d-4a78-8ba1-6c094825307e)
 
 
